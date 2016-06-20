@@ -45,7 +45,7 @@ class NetherBrickFence extends Transparent {
 	public function getHardness(){
 		return 2;
 	}
-        
+
 	public function getToolType(){
 		return Tool::TYPE_PICKAXE;
 	}
