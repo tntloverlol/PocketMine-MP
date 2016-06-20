@@ -67,5 +67,5 @@ class NetherBrickFence extends Transparent {
 		}else{
 			return [];
 		}
-	}        
+	}
 }
